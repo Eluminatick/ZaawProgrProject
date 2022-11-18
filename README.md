@@ -1,0 +1,2 @@
+Daniel Dystrych:
+Projekt zaliczeniowy.
