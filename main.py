@@ -50,7 +50,7 @@ def hashing(password: str):
 
 
 user_db = {"banana": {"username": "banana",
-                      "hashed_password": "banana"}
+                      "hashed_password": "hashedbanana"}
            }
 
 
